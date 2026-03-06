@@ -1,2 +1,9 @@
 # CodeTest
-Hello World
+
+Hello, world!
+
+## Run
+
+```bash
+python hello.py
+```
