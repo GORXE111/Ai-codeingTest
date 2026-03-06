@@ -1,3 +1,26 @@
-# Minimal ignore
+# OS / Editor
 .DS_Store
 Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Build
+/dist/
+/build/
+
+# Misc
+*.tmp
+*.temp
